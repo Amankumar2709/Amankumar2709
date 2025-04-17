@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning 𝙟𝙖𝙫𝙖𝙨𝙘𝙧𝙞𝙥𝙩,𝙢𝙤𝙣𝙜𝙤𝙙𝙗 𝙖𝙣𝙙 𝘿𝙨𝙖
 
-- 👨‍💻 Connect with me on LinkedIn [Aman Kumar 😊](www.linkedin.com/in/aman-kumar-95426124b)
+- 👨‍💻 I am eager to explore the latest industry trends and learn new technologies.
 
 - 💬 Ask me about **react,gsap and Dbms**
 
